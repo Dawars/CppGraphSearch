@@ -1,8 +1,8 @@
 ![Build Status](https://gitlab.com/dawars00/NagyHf/badges/master/build.svg)
 
-Git repo: https://gitlab.com/dawars00/NagyHf
+Git repo: https://github.com/Dawars
 
-Documentation: http://dawars00.gitlab.io/NagyHf/
+Automatically generated Documentation: http://dawars00.gitlab.io/NagyHf/
 
 Table of Content:
 
@@ -14,7 +14,7 @@ Table of Content:
     * NonrecursiveDFS
     * CC
 
-* Implemented Algorithmen
+* Implemented Algorithms
     * Depth First Search
     * Non-recursive Depth First Search
     * Breath First Search
@@ -23,5 +23,3 @@ Table of Content:
     * Flow (Min cut - max flow)
     * Dijkstra
     * Topological Sort
-
-[Gleiche in Deutsch]
